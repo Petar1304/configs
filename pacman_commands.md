@@ -1,0 +1,10 @@
+- pacman -S package_name => install a package
+- pacman -R package_name => remove a package
+- pacman -Rs package_name => remove package and its dependencies
+- pacman -Qdtq => remove packages that are no longer needed
+- pacman -Syu => upgrade all packages
+- pacman -Ss package_name => search for a package
+- pacman -Qs package_name => search for already installed package
+- paccache -r => deletes all cached versions
+- pacman -Sc => removes all files from cache
+- pacman -Scc => leaves nothing in cache folder
