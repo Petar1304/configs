@@ -1,6 +1,2 @@
-# This is Readme
+# README
 
-```
-import numpy as np
-import torch
-```
