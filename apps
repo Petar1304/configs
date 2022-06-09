@@ -9,14 +9,6 @@ tlp
 ranger
 python nodejs gcc g++ java
 visual studio code
-celuloid
+celluloid
 
 font(cascadia code)
-
-chromium extensions {
-  bitwarden
-  ublock origin
-  df tube
-  youtube playback speed control
-  duck duck go privacy tools
-}
