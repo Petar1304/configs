@@ -1,10 +1,6 @@
-terminal (termite)
-vim
-tmux
-zathura
-git
-auto-cpufreq
-tlp
+terminal (alacritty, kitty, xterm, termite)
+vim tmux zathura git
+auto-cpufreq tlp
 (nitrogen)
 ranger
 python nodejs gcc g++ java
