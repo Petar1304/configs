@@ -1,4 +1,4 @@
-terminal (alacritty, kitty, xterm, termite)
+alacritty
 vim tmux zathura git
 auto-cpufreq tlp
 (nitrogen)
