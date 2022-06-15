@@ -1,0 +1,11 @@
+configuration {
+  display-drun: "Applications:";
+  drun-display-format: "{name}";
+  font: "CascadiaCode 10";
+  modi: "drun"; 
+}
+@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"
+
+element-icon {
+  size: 30;
+}
